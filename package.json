@@ -1,0 +1,19 @@
+{
+  "name": "extend-session",
+  "version": "1.0.0",
+  "description": "Include session data in a node.js web application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "session",
+    "node",
+    "express"
+  ],
+  "author": "Laszlo Fogas",
+  "license": "ISC",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
+}
