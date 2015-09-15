@@ -1,5 +1,3 @@
-var _ = require("underscore");
-
 /**
  * Include session data in res.locals.
  * @param {string} [ns=session] Name of the variable in res.locals. Defaults to "session".
